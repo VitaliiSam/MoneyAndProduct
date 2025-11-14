@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyAndProduct", "MoneyAndProduct\MoneyAndProduct.csproj", "{15FBDB0D-5958-496C-90BD-E5D75DA45382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalInstruments", "MusicalInstruments\MusicalInstruments.csproj", "{C46C1343-68CE-4C3B-A4F4-728FD4E5DC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalNumber", "DecimalNumber\DecimalNumber.csproj", "{79FE29BC-2CCA-48C5-BF6B-F2ADFA1F4B0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{15FBDB0D-5958-496C-90BD-E5D75DA45382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FBDB0D-5958-496C-90BD-E5D75DA45382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FBDB0D-5958-496C-90BD-E5D75DA45382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46C1343-68CE-4C3B-A4F4-728FD4E5DC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46C1343-68CE-4C3B-A4F4-728FD4E5DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46C1343-68CE-4C3B-A4F4-728FD4E5DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46C1343-68CE-4C3B-A4F4-728FD4E5DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FE29BC-2CCA-48C5-BF6B-F2ADFA1F4B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FE29BC-2CCA-48C5-BF6B-F2ADFA1F4B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FE29BC-2CCA-48C5-BF6B-F2ADFA1F4B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FE29BC-2CCA-48C5-BF6B-F2ADFA1F4B0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
